@@ -5,6 +5,8 @@
 >
 > 블루투스를 통해 원격 제어를 할 수 있습니다.
 
+## 시연 영상
+![모형 앞](/readmeFile/RobotHand_QRCode.png)
 
 ## 하드웨어
 
